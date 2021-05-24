@@ -1,3 +1,3 @@
-# hard-rock-solution
-api link: https://api.lyrics.ovh/suggest/summer
-# hard-rock-lyrics
+# Hard Rock: Lyrics Searching Application
+
+https://imsamin.github.io/hard-rock-lyrics/
